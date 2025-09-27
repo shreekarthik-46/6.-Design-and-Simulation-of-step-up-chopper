@@ -46,5 +46,12 @@ Current Ripple (∆I) = 2A
 <img width="407" height="457" alt="image" src="https://github.com/user-attachments/assets/c6083c5a-a698-4499-97d4-528c43ab9ef4" />
 
 ## Simulation
+
+![exp6 cirvuit](https://github.com/user-attachments/assets/6cd352a5-4401-4c46-b481-559ff2429c79)
+
 ## Output
+
+![exp6 output](https://github.com/user-attachments/assets/9febf09c-5595-455c-8eb3-deaedae18775)
+
 ## Result
+The design, simulation and analysis of boost converter is done using MATLAB simulink
